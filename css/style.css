@@ -49,7 +49,7 @@ header {
     align-items: center;
 }
 .header-content {
-    background: url(img/header-bg.jpg) no-repeat center /cover;
+    background: url(../img/header-bg.jpg) no-repeat center /cover;
     display: flex;
     flex-direction: column;
     align-items: center;
