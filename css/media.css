@@ -63,7 +63,7 @@
     }
     
 }
-@media screen and (min-width: 1110px) {
+@media screen and (min-width: 1500px) {
     .nav-list {
       position: initial;
       width: initial;
@@ -74,6 +74,7 @@
       flex-direction: row;
       transform: initial;
       transition: initial;
+      z-index: 300;
     }
     .nav-link {
       margin-left: 4rem;
